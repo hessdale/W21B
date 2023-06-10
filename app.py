@@ -92,5 +92,5 @@ def post_quote():
     except ValueError:
         print('value error, try again')
 
-
+#runs app with debugger active
 app.run(debug=True)

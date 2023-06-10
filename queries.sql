@@ -30,3 +30,4 @@ call get_philosophers();
 call get_quotes(1);
 call new_philospopher('random7', 'some guy7', '1997-07-09', now(),'https://images.pexels.com/photos/2398297/pexels-photo-2398297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); 
 call new_quote(7,"blah blah blah");
+call new_philosopher('new6', 'new', '2022-02-02','2022-02-02','some website.org');
